@@ -9,3 +9,4 @@ print("mainブランチ側に再度修正追加しました。commit3ができ�
 print("Github上で編集を行いました 9/25")
 print("これはfetchです")
 print("PRの確認動作用です、作成主featureブランチ")
+print("レビュー用のPRです")
